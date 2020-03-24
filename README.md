@@ -1,4 +1,4 @@
-# EUROMICRO2020
+# EUROMICRO 2020
 All the material which did not fit in the conference paper.
 
 - **Taxonomy.xlsx** contains the current product and process taxonomies (in different sheets)
