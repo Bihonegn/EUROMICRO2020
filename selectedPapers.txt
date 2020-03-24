@@ -1,0 +1,196 @@
+Which type of metrics are useful to deal with class imbalance in software defect prediction?
+A Feature Dependent Naive Bayes Approach and Its Application to the Software Defect Prediction Problem
+A parallel framework for software defect detection and metric selection on cloud computing
+A Large-Scale Study of the Impact of Feature Selection Techniques on Defect Classification Models
+Automatic Feature Selection by Regularization to Improve Bug Prediction Accuracy
+Linear and non-linear heterogeneous ensemble methods to predict the number of faults in software systems
+Using classifiers for software defect detection
+Hybrid SMOTE-ensemble approach for software defect prediction
+Classification with reject option for software defect prediction
+Multiple kernel ensemble learning for software defect prediction
+Deriving thresholds of software metrics to predict faults on open source software: Replicated case studies
+Empirical Evaluation of Cross-Release Effort-Aware Defect Prediction Models
+A novel kernel to predict software defectiveness
+Investigating the Effects of Balanced Training and Testing Datasets on Effort-Aware Fault Prediction Models
+Mutation-aware fault prediction
+Token based approach for cross project prediction of fault prone modules
+Feature selection in software defect prediction: A comparative study
+Software module fault prediction using convolutional neural network with feature selection
+Software defect prediction using cost-sensitive neural network
+Different classifiers find different defects although with different level of consistency
+Software defect prediction using ensemble learning on selected features
+Software defect prediction using a cost sensitive decision forest and voting, and a potential solution to the class imbalance problem
+Dictionary learning based software defect prediction
+Comparative analysis of statistical and machine learning methods for predicting faulty modules
+A comparative study of feature-ranking and feature-subset selection techniques for improved fault prediction
+Performance analysis of ensemble learning for predicting defects in open source software
+Empirical study of fault prediction for open-source systems using the chidamber and kemerer metrics
+An empirical analysis on fault-proneness of well-commented modules
+Recalling the "imprecision" of cross-project defect prediction
+Investigating object-oriented design metrics to predict fault-proneness of software modules
+Entropy based bug prediction using support vector regression
+Artificial neural network-based metric selection for software fault-prone prediction model
+Software defect prediction scheme based on feature selection
+Can reused components provide lead to future defective components in smart grid applications?
+An ensemble approach of simple regression models to cross-project fault prediction
+An adaptive approach with active learning in software fault prediction
+Characterizing the roles of classes and their fault-proneness through change metrics
+Method-level bug prediction
+Software defect prediction using semi-supervised learning with dimension reduction
+On the relationship between comment update practices and Software Bugs
+Empirical investigation of fault prediction capability of object oriented metrics of open source software
+Anticipating software fault proneness using classifier ensemble: An optimize approach
+Evaluating defect prediction approaches: A benchmark and an extensive comparison
+Bug prediction based on fine-grained module histories
+Privacy and utility for defect prediction: Experiments with MORPH
+Software defect prediction using Two level data pre-processing
+Investigating fault prediction capabilities of five prediction models for software quality
+An empirical study of pre-release software faults in an industrial product line
+An investigation on the feasibility of cross-project defect prediction
+Searching for rules to detect defective modules: A subgroup discovery approach
+Uncovering causal relationships between software metrics and bugs
+Transfer learning for cross-company software defect prediction
+Validating the effectiveness of object-oriented metrics over multiple releases for predicting fault proneness
+A heuristic rule reduction approach to software fault-proneness prediction
+An empirical analysis of the impact of comment statements on fault-proneness of small-size module
+Constructing defect predictors and communicating the outcomes to practitioners
+Learning from open-source projects: An empirical study on defect prediction
+Class level fault prediction using software clustering
+Personalized defect prediction
+Predicting defects using change genealogies
+How, and why, process metrics are better
+Predicting fault-prone software modules with rank sum classification
+Training data selection for cross-project defect prediction
+Using code change types in an analogy-based classifier for short-Term defect prediction
+Sample size vs. Bias in defect prediction
+Multi-objective cross-project defect prediction
+Investigation of relationship between object-oriented metrics and change proneness
+Predicting failure-proneness in an evolving software product line
+Empirical model for predicting high, medium and low severity faults using object oriented metrics in Mozilla Firefox
+A suite of metrics for quantifying historical changes to predict future change-prone classes in object-oriented software
+Using class imbalance learning for software defect prediction
+The design of polynomial function-based neural network predictors for detection of software defects
+Entropy of some CK metrics to assess object-oriented software quality
+Toward comprehensible software fault prediction models using bayesian network classifiers
+Incremental development of fault prediction models
+Predicting aging-related bugs using software complexity metrics
+Evaluating performance of network metrics for bug prediction in software
+Replacing code metrics in software fault prediction with early life cycle metrics
+Predict fault-prone classes using the complexity of UML class diagram
+Fault prediction for apache open source framework using Chidamber and kemerer metrics suite
+A scenario-based approach to predicting software defects using compressed C4.5 model
+A semi-supervised approach to software defect prediction
+Applications of fuzzy integrals for predicting software fault-prone
+Software defect prediction using relational association rule mining
+Extracting software static defect models using data mining
+On the applicability of evolutionary computation for software defect prediction
+System performance analyses through object-oriented fault and coupling prisms
+Using pre-release test failures to build early post-release defect prediction models
+Cross-project defect prediction models: L'Union fait la force
+The influence of developer quality on software fault-proneness prediction
+Using logistic regression to estimate the number of faulty software modules
+A comparison of semi-supervised classification approaches for software defect prediction
+Investigating associative classification for software fault prediction: An experimental perspective
+Is popularity a measure of quality? An analysis of maven components
+Prediction of software defects using twin support vector machine
+Predicting software defects with causality tests
+Combining the requirement information for software defect estimation in design time
+An AIS based feature selection method for software fault prediction
+A hybrid one-class rule learning approach based on swarm intelligence for software fault prediction
+DRS: A Developer Risk Metric for Better Predicting Software Fault-Proneness
+On the role of developer's scattered changes in bug prediction
+A new approach to find predictor of software fault using association rule mining
+An Empirical Investigation of Relationship between Software Metrics
+A network clustering based software attribute selection for identifying fault-prone modules
+Performance evaluation of ensemble methods for software fault prediction: An experiment
+Modeling structural model for defect categories based on software metrics for categorical defect prediction
+A Hybrid Instance Selection Using Nearest-Neighbor for Cross-Project Defect Prediction
+An Empirical Study of Classifier Combination for Cross-Project Defect Prediction
+Heterogeneous defect prediction
+Heterogeneous cross-company defect prediction by unified metric representation and CCA-based transfer learning
+Prediction approach of software fault-proneness based on hybrid artificial neural network and quantum particle swarm optimization
+Merits of Organizational Metrics in Defect Prediction: An Industrial Replication
+The impact of mislabelling on the performance and interpretation of defect prediction models
+Revisiting the impact of classification techniques on the performance of defect prediction models
+LACE2: Better privacy-preserving data sharing for cross project defect prediction
+Identifying effective software metrics for categorical defect prediction using structural equation modeling
+A novel industry grade dataset for fault prediction based on model-driven developed automotive embedded software
+Predicting defective modules in different test phases
+A novel defect prediction method for web pages using k-means++
+Mining github for novel change metrics to predict buggy files in software systems
+Impact of feature selection techniques on bug prediction models
+Early prediction of software fault-prone module using artificial neural network
+An approach for feature-level bug prediction using test cases
+Fault prediction considering threshold effects of object-oriented metrics
+The effect of refactoring on change and fault-proneness in commercial C# software
+An empirical study based on semi-supervised hybrid self-organizing map for software fault prediction
+An empirical study on predicting defect numbers
+An empirical analysis of package-modularization metrics: Implications for software fault-proneness
+Negative samples reduction in cross-company software defects prediction
+A software defect-proneness prediction framework: A new approach using genetic algorithms to generate learning schemes
+Design of software fault prediction model using BR technique
+Predicting number of faults in software system using genetic programming
+Entropy based Bug Prediction using Neural Network based regression
+Which is more important for cross-project defect prediction: Instance or feature?
+Cost-sensitive local collaborative representation for software defect prediction
+Software defect prediction using doubly stochastic Poisson processes driven by stochastic belief networks
+Effective multi-objective naÃ¯ve Bayes learning for cross-project defect prediction
+Iterative software fault prediction with a hybrid approach
+Effort-Aware just-in-Time defect prediction: Simple unsupervised models could be better than supervised models
+Towards building a universal defect prediction model with rank transformed predictors
+Predicting Defectiveness of Software Patches
+An empirical study on dependence clusters for effort-aware fault-proneness prediction
+Software Defect Prediction Using Semi-Supervised Learning with Change Burst Information
+An empirical study on fault prediction using token-based approach
+Comparative analysis of neural network and genetic programming for number of software faults prediction
+Software defect prediction model based on improved LLE-SVM
+SAL: An effective method for software defect prediction
+Automatically learning semantic features for defect prediction
+Cross-project defect prediction using a connectivity-based unsupervised classifier
+Defect prediction on a legacy industrial software: A case study on software with few defects
+Architectural-based speculative analysis to predict bugs in a software system
+Feature subset selection for instance filtering methods on cross-project defect prediction
+Selecting best attributes for software defect prediction
+Software Defect Prediction Based on Conditional Random Field in Imbalance Distribution
+Comparative performance of fault-prone prediction classes with k-means clustering and MLP
+A model for software defect prediction using support vector machine based on CBA
+Empirical analysis of network measures for effort-aware fault-proneness prediction
+The use of cross-company fault data for the software fault prediction problem
+Complexity-based prediction of faults number for software modules ranking before testing: Technique and case study
+A hybrid CRBA-SVM model for software defect prediction
+Empirical validation for effectiveness of fault prediction technique based on cost analysis framework
+Identifying and eliminating less complex instances from software fault data
+Towards an ensemble based system for predicting the number of software faults
+Cross-validation based K nearest neighbor imputation for software quality datasets: An empirical study
+A feature matching and transfer approach for cross-company defect prediction
+An Empirical Analysis on Effective Fault Prediction Model Developed Using Ensemble Methods
+The application of ROC analysis in threshold identification, data imbalance and metrics selection for software fault prediction
+Software defect prediction via convolutional neural network
+Predicting fault-prone classes in object-oriented software: An adaptation of an unsupervised hybrid som algorithm
+Cross-project defect prediction using a credibility theory based naive bayes classifier
+An empirical analysis of the effectiveness of software metrics and fault prediction model for identifying faulty classes
+Topic-based software defect explanation
+An investigation on the effect of cross project data for prediction accuracy
+Enhancing Software Maintenance via Early Prediction of Fault-Prone Object-Oriented Classes
+Fuzzy Rule-Based Approach for Software Fault Prediction
+Using Software Metrics Thresholds to Predict Fault-Prone Classes in Object-Oriented Software
+Application of genetic algorithm as feature selection technique in development of effective fault prediction model
+Software fault prediction based on one-class SVM
+Label propagation based semi-supervised learning for software defect prediction
+A novel approach for software defect prediction using fuzzy decision trees
+Empirical analysis of search based algorithms to identify change prone classes of open source software
+An empirical study on the equivalence and stability of feature selection for noisy software defect data
+A Combined-Learning based framework for improved software fault prediction
+FSCR:A Feature selection method for software defect prediction
+Relationship between design and defects for software in evolution
+Using class imbalance learning for cross-company defect prediction
+Learning from Imbalanced Data for Predicting the Number of Software Defects
+Co-evolutionary multi-population genetic programming for classification in software defect prediction: An empirical case study
+Tackling imbalanced class in software defect prediction using two-step cluster based random undersampling and stacking technique
+An Empirical Evaluation of NASA-MDP Data sets using a Genetic Defect-Proneness Prediction Framework
+Applying Feature Selection to Software Defect Prediction Using Multi-objective Optimization
+Assessing the bug-prediction with re-usability based package organization for object oriented software systems
+Correlation of change size to fault-proneness: A real life case study
+Cross-project and within-project semi-supervised software defect prediction problems study using a unified solution
+FeSCH_A Feature Selection Method using Clusters of Hybrid-data for Cross-Project Defect Prediction
+Just-In-Time Bug Prediction in Mobile Applications: The Domain Matters
